@@ -4,7 +4,6 @@ Created on Sun Aug  1 12:43:36 2021
 
 @author: CHAD
 """
-# I did not make this myself, I got it form www.hackr.io
 
 """ Number Guessing Game
 ----------------------------------------
